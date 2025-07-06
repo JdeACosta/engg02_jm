@@ -1,4 +1,4 @@
-# jaco_myo
+# engg02
 
 ### Necessario ter o kinova-ros package funcionando. Esse git funciona so como uma mascara para as funcionalidades do kinova-ros (criei ele pra usar especificamente o Jaco porque o git do kinova oferece suporte para mais bracos roboticos)
 
