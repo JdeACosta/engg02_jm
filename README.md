@@ -11,9 +11,11 @@ sudo apt-get install ros-noetic-trac-ik-kinematics-plugin
 sudo apt-get install ros-noetic-moveit
 sudo apt-get install ros-noetic-trac-ik
 ```
-### 2. Clone o github do kinova
-### 3. Clone este github
-### 4. Faça catkin_make
+#### 2. Clone o github do kinova
+
+#### 3. Clone este github
+
+#### 4. Faça catkin_make
 
 #### Se quiser testar o jaco com o launcher do robo em cima da mesa:
 ```
